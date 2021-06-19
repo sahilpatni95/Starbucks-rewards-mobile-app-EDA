@@ -1,5 +1,5 @@
-# Starbucks Capstone Challenge
-Project in Data Scientist Nanodegree of Udacity
+# Starbucks-rewards-mobile-app-EDA
+> Project in Data Scientist Nanodegree of Udacity
 
 ![Intro Pic](intro.jpeg)
 
